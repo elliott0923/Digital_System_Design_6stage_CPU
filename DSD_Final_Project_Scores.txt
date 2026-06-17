@@ -1,0 +1,22 @@
+DSD Final Project Scores
+Student ID: B11901xxx
+1. BrPred
+(1) Total execution cycles of given I_mem_BrPred: 566
+(2) Total execution cycles of given I_mem_hasHazard: 2698 
+(3) Clock cycle for post-syn simulation (cycle in testbench, not cycle in sdc) (ns): 2.7
+
+2. Compressed instructions
+(1) Total Simulation Time of given I_mem_compression (ns): 2112.405
+(2) Clock cycle for post-syn simulation (cycle in testbench, not cycle in sdc) (ns): 2.7
+
+3. Multiplication instructions
+(1) Total Simulation Time of given Mul/I_mem (ns):700.305
+(2) Clock cycle for post-syn simulation (cycle in testbench, not cycle in sdc) (ns): 2.7
+
+4. Q_sort & Conv
+(1) Area (um2): 1277451.373
+(2) Total Simulation Time of Q_Sort (ns): 172123.206
+(3) Total Simulation Time of Conv (ns): 18172.005
+(4) Total Simulation Time of LFSR_HIST (ns):710929.905
+(5) Area*Total Simulation Time Q_Sort*Total Simulation Time of Conv*Total Simulation Time of LFSR_HIST (um2 * ns3): 2.84062*10^21
+(6) Clock cycle for post-syn simulation (cycle in testbench, not cycle in sdc) (ns): 2.7
